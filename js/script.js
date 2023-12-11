@@ -6,7 +6,9 @@ createApp({
     data(){
         return {
             // Punto 1 readme.md
-            message: 'ciao'
+            message: 'A.S.Roma',
+            // Punto 2 readme.md
+            image: './img/roma.jpg'
         }
     }
 }).mount('#app');
