@@ -5,7 +5,8 @@ const { createApp } = Vue;
 createApp({
     data(){
         return {
-
+            // Punto 1 readme.md
+            message: 'ciao'
         }
     }
 }).mount('#app');
